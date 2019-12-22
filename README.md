@@ -1,18 +1,19 @@
 # PremaidAi-WiFi-Brifge
-ESP32-Serial-Bridge¤ò²şÂ¤¤·À½ºî¤·¤Æ¤¤¤Ş¤¹¡£
+ESP32-Serial-Bridgeã‚’æ”¹é€ ã—è£½ä½œã—ã¦ã„ã¾ã™ã€‚
 https://github.com/AlphaLima/ESP32-Serial-Bridge
-¡ÊMIT License¡Ë
+ï¼ˆMIT Licenseï¼‰
 
-»ÈÍÑ¤Ë¤Ï¡¢¥×¥ê¥á¥¤¥Éai¤òWiFi¤ÇÆ°¤«¤½¤¦¡¡Ê¬²ò¤«¤é¥¢¥×¥êµ¯Æ°¤Ş¤Ç¤ò¤´Í÷¤¯¤À¤µ¤¤¡£
+ä½¿ç”¨ã«ã¯ã€ãƒ—ãƒªãƒ¡ã‚¤ãƒ‰aiã‚’WiFiã§å‹•ã‹ãã†ã€€åˆ†è§£ã‹ã‚‰ã‚¢ãƒ—ãƒªèµ·å‹•ã¾ã§ã‚’ã”è¦§ãã ã•ã„ã€‚
 https://qiita.com/usashirou/items/a58405d8aae300fdda95
 
-½é´üÀßÄê¡§Smrtconfig 
+åˆæœŸè¨­å®šï¼šSmrtconfig 
 
-¥¢¥¯¥»¥¹¥İ¥¤¥ó¥È¥â¡¼¥É»şÀßÄê                                              
+ã‚¢ã‚¯ã‚»ã‚¹ãƒã‚¤ãƒ³ãƒˆãƒ¢ãƒ¼ãƒ‰æ™‚è¨­å®š                                              
 IPAdress: 192.168.4.1                                           
 AP SSID: premaidai                                                   
 AP Password: premaidai                                       
-Used Ports:                                                                      ¥Ü¡¼¥É¥ì¡¼¥È¡§115200                      
+ãƒœãƒ¼ãƒ‰ãƒ¬ãƒ¼ãƒˆï¼š115200                      
+Used Ports: 
 192.168.4.1:8880  <-> COM0                                     
 192.168.4.1:8881  <-> COM1                                     
-192.168.4.1:8882  <-> COM2 ¡§Ì¤ÀßÄê                                 
+192.168.4.1:8882  <-> COM2 ï¼šæœªè¨­å®š                                 
