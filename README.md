@@ -1,5 +1,5 @@
 # PremaidAi-WiFi-Brifge
-ESP32-Serial-Bridgeを改造し製作しています。
+ESP32-Serial-Bridgeを改造し製作しています。 
 https://github.com/AlphaLima/ESP32-Serial-Bridge  
 （MIT License）
 
@@ -12,7 +12,7 @@ IPAdress: 192.168.4.1
 AP SSID: premaidai                                                   
 AP Password: premaidai                                       
 ボードレート：115200                      
-Used Ports:
+Used Ports:  
 192.168.4.1:8880  <-> COM0  
 192.168.4.1:8881  <-> COM1       
 192.168.4.1:8882  <-> COM2 ：未設定                                 
