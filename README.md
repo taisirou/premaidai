@@ -1,4 +1,4 @@
-# PremaidAi-WiFi-Brifge
+# PremaidAi-WiFi-Bridge
 ESP32-Serial-Bridgeを改造し製作しています。  
 https://github.com/AlphaLima/ESP32-Serial-Bridge  
 （MIT License）
